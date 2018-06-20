@@ -1,0 +1,32 @@
+body {
+  font-family: Helvetica;
+}
+
+h1 {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  background-image: url("/Users/JacobSargent/Desktop/projects/art-store/resources/images/pattern.jpg");
+  text-align: center;
+}
+div.price {
+  color: blue;
+  font-weight: bold;
+}
+
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+h2#green {
+  background-color: mediumspringgreen;
+}
+h2#red {
+  background-color: lightcoral;
+}
+h2#blue {
+  background-color: skyblue;
+}
